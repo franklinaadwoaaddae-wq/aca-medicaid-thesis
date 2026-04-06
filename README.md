@@ -16,9 +16,9 @@ Does Medicaid expansion increase access to preventive care services?
 - Double Machine Learning
 
 ## 📁 Project Structure
-- `data/` (not included)
-- `code/` (R scripts for analysis)
-- `output/` (figures and results)
+- `code/` : Data cleaning and analysis scripts
+- `output/` : Figures and results
+- `README.md` : Project overview
 
 ## 🚀 Key Results
 - Medicaid expansion was associated with increased access to preventive care services.
