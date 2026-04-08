@@ -25,5 +25,11 @@ Does Medicaid expansion increase access to preventive care services?
 - Treated states showed a noticeable improvement in coverage rates after 2014 compared to non-expansion states.
 - Results from multiple methods (DiD, Event Study, DML) were consistent, supporting the robustness of the findings.
 
+## 📊 Example Result
+
+![Event Study Plot](output/Rplot07.png)
+
+This figure presents the estimated effect of Medicaid expansion on preventive care utilization over time. The post-expansion pattern suggests that expansion was associated with improved access to preventive care services.
+
 ## 📌 Notes
 Data is publicly available but not redistributed in this repository.
